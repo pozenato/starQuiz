@@ -1,0 +1,7 @@
+$headerTitleFont: 'Star Jedi';
+$headerTitleUrlFont: url('../fonts/star-jedi.ttf') format('opentype');
+
+@font-face {
+    font-family: $headerTitleFont;
+    src: $headerTitleUrlFont;
+}

@@ -1,0 +1,7 @@
+const actionTypes = {
+    FETCH_PEOPLE_DATA: 'FETCH_PEOPLE_DATA',
+    RECEIVE_PEOPLE_DATA: 'RECEIVE_PEOPLE_DATA',
+    INTERNAL_ERROR: 'INTERNAL_ERROR',
+};
+
+export default actionTypes;

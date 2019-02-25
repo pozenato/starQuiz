@@ -1,0 +1,29 @@
+.headerTitle {
+    font-family: 'Star Jedi', arial;
+    font-size: 68px;
+    text-shadow: 4px 4px 4px #aaa;
+  };
+
+  .headerImg {
+    width: 100% !important;
+    padding-top: 30px;
+  };
+
+  .headerContainer {
+    max-height: 150px;
+  }
+
+  .countdown {
+    padding-top: 60px !important;
+    flex-direction: row;
+ }
+
+  .countdownIcon {
+      margin-top: 10px;
+      margin-right: 10px;
+  }
+
+  .countdownClock {
+    font-size: 33px !important;
+    font-weight: bold !important;
+  }
